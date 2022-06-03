@@ -1,0 +1,34 @@
+
+div{
+	padding: 25%;
+}
+aside{
+	background-color: blueviolet;
+	color: floralwhite;
+	float: left;
+	width: 200px;
+	height: 800px;
+}
+#yellow{
+            background-color: yellow;
+            width: 250;}
+h1{
+	font-family: sans-serif;
+}            
+p{
+	font-family: serif;
+}
+body{
+	background-image:url(grass.jpg);
+}
+section{
+	background-color: yellow;
+	width: 600px;
+	color: blueviolet;
+	height: 800px;
+}
+#blue{
+	background-color: blueviolet;
+	color: floralwhite;
+	text-align: center;
+}
